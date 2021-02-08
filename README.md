@@ -1,3 +1,7 @@
+<h3>A simple Student record management system with CRUD functionality, 
+font end created by using React js and the back-end by Json API</h3>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
