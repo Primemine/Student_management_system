@@ -1,0 +1,14 @@
+{
+  "student_data": [
+    {
+      "id": 1,
+      "fullName": "john prime",
+      "parentName": "prime mine",
+      "email": "prime@gmail.com",
+      "phoneNumber": 1234556,
+      "date": "27-10-1994",
+      "region": "Dar es salaam",
+      "course": "computer science"
+    }
+  ]
+}
